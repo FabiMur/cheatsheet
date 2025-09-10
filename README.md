@@ -1,4 +1,4 @@
-# cheatsheet-and-dotfiles
+# cheatsheet
 Cheatsheet for some of the keybindings and shortcuts of my workflow.
 
 
