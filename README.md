@@ -6,7 +6,22 @@ Cheatsheet for some of the keybindings and shortcuts of my workflow.
 
 
 ## tmux
+**prefix = ctrl + a**
 
+- **prefix + c**: create new window
+- **prefix + x**: close current pane
+- **prefix + ,**: reaname window
+
+- **prefix + left**: open previous window
+- **prefix + right**: open next window
+
+- **prefix + p**: open previous window
+- **prefix + n**: open next window
+
+- **prefix + h**: select pane left
+- **prefix + j**: select pane down
+- **prefix + k**: select pane up
+- **prefix + l**: select pane right
 
 ## skhd/yabai
 - **opt + t**: open launchpad
@@ -16,7 +31,6 @@ Cheatsheet for some of the keybindings and shortcuts of my workflow.
 - **opt + q**: open vscode
 - **opt + e**: open neovim
 - **opt + p**: open btop
-
 
 - **opt + num**: move view to workspace num.
 -  **opt + shift + num**: move active window to workspace num.
@@ -35,4 +49,5 @@ Cheatsheet for some of the keybindings and shortcuts of my workflow.
 - **hold D or K** = ctrl
 - **hold S or L** = opt
 - **hold A or ;** = cmd
+
 ## nvim
